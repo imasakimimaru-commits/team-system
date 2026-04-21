@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>登録画面</h1>
-
+    <h3>あなたの現在の安否を選択してください</h3>
     <form action="safetyList.php" method="post">
         <input type="checkbox" name="safety" value="安全">安全
         <input type="checkbox" name="safety" value="危険">危険<br>
